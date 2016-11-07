@@ -1,0 +1,2 @@
+Hi Hello
+I am adding text to this file keeping the local null
